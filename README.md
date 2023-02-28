@@ -1,5 +1,11 @@
-<img src="./assets/Przechwytywanie2.JPG" alt="Girl in a jacket" width="100%" height="300">
+<img src="./assets/Przechwytywanie2.JPG" alt="Girl in a jacket" width="100%" height="500">
 Aplikacja skupia się na umiejętnym wykorzystywaniu funkcjonalności JavaScript i SCSS. 
-Głównym elementem projektu jest kalkulator zliczający  automatycznie i na bieżąco wszystkie dostępne usługi i ich wyświetlaniu.
+W projekcie została wykorzystana wiedza w zakresie CSS/SCSS.
+Odwzorowanie szablonu przygotowanego w Figma przez szkolę CodersLab. 
+Aplikacja przygotowana jest do korzystania z niej na urządzeniach mobilnych (RWD)
+<img src="./assets/Przechwytywanie3.JPG" alt="Girl in a jacket" width="30%" height="300">
 
-https://bestschop.netlify.app/
+Głównym elementem projektu jest kalkulator zliczający  automatycznie i na bieżąco wszystkie dostępne usługi i ich wyświetlaniu.
+<img src="./assets/Przechwytywanie1.JPG" alt="Girl in a jacket" width="100%" height="500">
+
+**Podgląd strony -> https://bestschop.netlify.app/
