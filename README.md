@@ -1,4 +1,5 @@
-<a href='https://bestschop.netlify.app'>Podgląd strony</a>
+&#9755;  <a href='https://bestschop.netlify.app'>Podgląd strony</a>
+<br></br>
 <img src="./assets/Przechwytywanie2.JPG" alt="Girl in a jacket" width="100%" height="500">
 Aplikacja skupia się na umiejętnym wykorzystywaniu funkcjonalności JavaScript i SCSS. 
 W projekcie została wykorzystana wiedza w zakresie CSS/SCSS.
