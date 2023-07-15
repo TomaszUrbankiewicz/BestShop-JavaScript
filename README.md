@@ -11,3 +11,4 @@ Głównym elementem projektu jest kalkulator zliczający  automatycznie i na bie
 <img src="./assets/Przechwytywanie.JPG" alt="Girl in a jacket" width="100%" height="500">
 
 
+##
