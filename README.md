@@ -10,5 +10,3 @@ Aplikacja przygotowana jest do korzystania z niej na urządzeniach mobilnych (RW
 Głównym elementem projektu jest kalkulator zliczający  automatycznie i na bieżąco wszystkie dostępne usługi i ich wyświetlaniu.<br><br>
 <img src="./assets/Przechwytywanie.JPG" alt="Girl in a jacket" width="100%" height="500">
 
-
-##
