@@ -1,5 +1,6 @@
 &#9755;  <a href='https://bestschop.netlify.app'>Podgląd strony</a>
 <br>
+</br>
 <img src="./assets/Przechwytywanie2.JPG" alt="Girl in a jacket" width="100%" height="500">
 <br></br>
 Projekt ten stanowi swoisty warsztat, umożliwiając szlifowanie umiejętności zdobytych w trakcie kursu. Głównym obszarem skupienia aplikacji jest umiejętne wykorzystanie funkcjonalności JavaScript i preprocesora CSS, SCSS. Centralnym elementem projektu jest interaktywny kalkulator, który automatycznie i na bieżąco zlicza wszystkie dostępne usługi i prezentuje je użytkownikowi.
