@@ -26,5 +26,5 @@ W trakcie pracy nad projektem, użytkownik rozwija umiejętności programistyczn
 
 Projekt ten nie tylko umożliwia praktyczne zastosowanie wiedzy, ale także skupia się na konkretnym celu - stworzeniu funkcjonalnego kalkulatora zliczającego usługi, co przyczynia się do efektywnego rozwijania umiejętności w konkretnym kontekście aplikacyjnym.
 
-<img src="./assets/Przechwytywanie.JPG" alt="Girl in a jacket" width="100%" height="500">
+<img src="./assets/Przechwytywanie.JPG" alt="Girl in a jacket" width="100%" height="30%">
 
